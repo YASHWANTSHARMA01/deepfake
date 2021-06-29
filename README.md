@@ -22,7 +22,7 @@ Then we import our datasets which contains some pictures to test and train our m
  Modeling: 
 [Image 118.jpg]
 
-Git code link : https://github.com/YASHWANTSHARMA01/deepfake
+Git code link :https://github.com/YASHWANTSHARMA01/deepfake/blob/main/DeepFace.ipynb
 
 
 Team members : 
